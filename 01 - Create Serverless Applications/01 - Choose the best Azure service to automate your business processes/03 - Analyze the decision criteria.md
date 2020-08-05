@@ -2,7 +2,7 @@
 
 ## Chosing a service
 
-![Choice](images\03-service-choice-flow-diagram.png)
+![Choice](images/03-service-choice-flow-diagram.png)
 
 ### Reasons to choose Design-First
 

@@ -2,7 +2,7 @@
 
 ## Scenario
 
-![Scenario](images\04-bike-hire-workflow.png)
+![Scenario](images/04-bike-hire-workflow.png)
 
 1. A customer requests a bike on the phone, in person, or through the website.
 2. Shop staff record the customer's details and frame size.
